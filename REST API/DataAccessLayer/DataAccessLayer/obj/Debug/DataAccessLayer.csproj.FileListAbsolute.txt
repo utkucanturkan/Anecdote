@@ -1,0 +1,14 @@
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\bin\Debug\Shared.dll
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\bin\Debug\Shared.pdb

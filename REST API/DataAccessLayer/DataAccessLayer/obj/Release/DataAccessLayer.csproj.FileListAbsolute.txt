@@ -1,0 +1,14 @@
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\bin\Release\DataAccessLayer.dll.config
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\bin\Release\DataAccessLayer.dll
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\bin\Release\EntityFramework.dll
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\bin\Release\Shared.dll
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\bin\Release\Shared.pdb
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\bin\Release\EntityFramework.xml
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\obj\Release\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CopyComplete
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\obj\Release\DataAccessLayer.dll
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\DataAccessLayer\DataAccessLayer\obj\Release\DataAccessLayer.pdb

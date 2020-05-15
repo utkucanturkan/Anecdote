@@ -1,0 +1,5 @@
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\Shared\Shared\bin\Release\Shared.dll
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\Shared\Shared\bin\Release\Shared.pdb
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\Shared\Shared\obj\Release\Shared.csproj.CoreCompileInputs.cache
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\Shared\Shared\obj\Release\Shared.dll
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\Shared\Shared\obj\Release\Shared.pdb

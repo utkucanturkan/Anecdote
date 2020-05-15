@@ -1,0 +1,6 @@
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\Shared\Shared\bin\Debug\Shared.dll
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\Shared\Shared\bin\Debug\Shared.pdb
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\Shared\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\Shared\Shared\obj\Debug\Shared.dll
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\Shared\Shared\obj\Debug\Shared.pdb
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\Shared\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache

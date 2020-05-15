@@ -1,0 +1,14 @@
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\bin\Debug\Shared.dll
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\bin\Debug\Shared.pdb

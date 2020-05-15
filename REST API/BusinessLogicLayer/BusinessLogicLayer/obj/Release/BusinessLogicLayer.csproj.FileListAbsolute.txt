@@ -1,0 +1,14 @@
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\bin\Release\BusinessLogicLayer.dll
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\bin\Release\BusinessLogicLayer.pdb
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\bin\Release\DataAccessLayer.dll
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\bin\Release\EntityFramework.dll
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\bin\Release\Shared.dll
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\bin\Release\DataAccessLayer.dll.config
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\bin\Release\EntityFramework.xml
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\bin\Release\Shared.pdb
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\obj\Release\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\obj\Release\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\obj\Release\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\obj\Release\BusinessLogicLayer.dll
+C:\Users\utkucanturkan\Documents\Visual Studio 2017\Projects\Anecdote\BusinessLogicLayer\BusinessLogicLayer\obj\Release\BusinessLogicLayer.pdb
